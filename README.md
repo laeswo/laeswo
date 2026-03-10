@@ -8,7 +8,7 @@
 <h3 align="center">📚사용 가능 언어📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=#ffffff" />&nbsp
-   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+
   <img src="https://img.shields.io/badge/BluePrint-137CBD.svg?style=for-the-badge&logo=blueprint&logoColor=FFFFFFF" />&nbsp
    <img src="https://img.shields.io/badge/C-000000.svg?style=for-the-badge&logo=c&logoColor=FFFFFFF" />&nbsp
 </div>
